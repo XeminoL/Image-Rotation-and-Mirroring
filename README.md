@@ -1,4 +1,4 @@
-# Image Rotation and Mirroring
+# This is a project for Logic Design (251)
 Requirements: Design a hardware block to rotate an image by 90° (clockwise/counterclockwise) and to mirror it horizontally or vertically. The design fetches pixels from memory, computes new coordinates, and stores the transformed image back.
 
 Input: Grayscale image stored in memory.
